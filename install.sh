@@ -1,3 +1,3 @@
-ln -sf ~/dotfiles/vimrc ~/.vimrc
-ln -sf ~/dotfiles/zshrc ~/.zshrc
-ln -sf ~/dotfiles/tmux.conf ~/.tmux.conf
+cp ~/dotfiles/vimrc ~/.vimrc
+cp ~/dotfiles/zshrc ~/.zshrc
+cp ~/dotfiles/tmux.conf ~/.tmux.conf
